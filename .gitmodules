@@ -1,0 +1,3 @@
+[submodule "hfmt"]
+	path = hfmt
+	url = ./hfmt
