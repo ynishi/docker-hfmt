@@ -2,7 +2,7 @@
 docker image for hfmt command.
 
 * based on stack-build for build, alpine for binary.
-* version 0.2.3.1_lts-14.6_alpine3.10.2 ${hfmt version}_${stack lts version}_${base image version}
+* version 0.2.3.1_lts-14.6_alpine3.10.2 ${hfmt version}\_${stack lts version}\_${base image version}
 
 ## Usage
 ### run
